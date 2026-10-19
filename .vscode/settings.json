@@ -1,0 +1,8 @@
+{
+  "go.toolsEnvVars": {
+    "GOROOT": "${workspaceFolder}/.tinygo/goroot",
+    "GOOS": "linux",
+    "GOARCH": "amd64",
+    "GOFLAGS": "-tags=uefi,baremetal,linux,amd64,tinygo,purego,osusergo,math_big_pure_go,gc.leaking,scheduler.tasks,tinygo.unwind.setjmp,serial.none,tinygo.unicore"
+  }
+}
