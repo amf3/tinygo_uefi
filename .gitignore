@@ -1,0 +1,5 @@
+# Ignore build output
+esp/
+
+# Ignore symlink to tinygo go root, unique to each person
+.tinygo
